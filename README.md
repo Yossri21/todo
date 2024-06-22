@@ -1,5 +1,13 @@
 # Getting Started with Create React App
 
+https://devsarticles.com/react-router-dom-v6-comprehensive-guide#basic-routing-in-react-router-dom-v-6
+
+https://dev.to/rebeccapeltz/react-18-react-router-v6-sidebar-navigation-and-a-sandpack-component-5c02
+
+https://github.com/remix-run/react-router/blob/dev/examples/basic/src/App.tsx
+
+https://reactrouter.com/en/main/start/overview
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
